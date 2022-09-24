@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-fritsch&count_private=true&show_icons=true&theme=dark)
+![](https://raw.githubusercontent.com/kevin-fritsch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/kevin-fritsch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 <!--
 **KevTVKevin/kevtvkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
