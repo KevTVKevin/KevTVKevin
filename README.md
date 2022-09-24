@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/kevin-fritsch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/kevin-fritsch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<img src="https://github.com/kevin-fritsch/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/kevin-fritsch/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 
 <!--
