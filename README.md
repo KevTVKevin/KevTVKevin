@@ -1,8 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 ![](https://raw.githubusercontent.com/kevin-fritsch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kevin-fritsch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevin-fritsch&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **KevTVKevin/kevtvkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
