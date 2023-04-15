@@ -7,6 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kevin-fritsch&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img  align="right" src="https://komarev.com/ghpvc/?username=kevin-fritsch&label=Profile%20views&color=0e75b6&style=flat"  />
+
 <!--
 **KevTVKevin/kevtvkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
